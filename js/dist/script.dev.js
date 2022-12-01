@@ -51,7 +51,7 @@ window.addEventListener('DOMContentLoaded', function () {
     }
   }); // Timer
 
-  var deadline = '2022-12-11';
+  var deadline = '2022-12-12';
 
   function getTimeRemaining(endtime) {
     var days, hours, minutes, seconds;
